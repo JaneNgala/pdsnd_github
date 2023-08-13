@@ -10,7 +10,7 @@ A python project to explore bikeshare data in three major cities in the US (***C
 This project focuses on exploratory data analysis on bikeshare data retrieved from three major cities in the US (***Chicago, New York City and Washington.***). The project uses python libraries such as pandas and numpy to perform descriptive analysis and display information such as the popular times of travel, popular stations, trip duration, etc.
 
 ### Files used
-Data used in this project is sourced from Motivate, a bike sjhare system provider for many major cities in the United States. 
+Data used in this project is sourced from Motivate, a bike share system provider for many major cities in the United States. 
 Randomly selected data for the first 6 months of 2017 are provided for all three cities.
    * _chicago.csv_
    * _new_york_city.csv_
