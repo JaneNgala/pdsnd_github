@@ -12,10 +12,12 @@ This project focuses on exploratory data analysis on bikeshare data retrieved fr
 ### Files used
 Data used in this project is sourced from Motivate, a bike sjhare system provider for many major cities in the United States. 
 Randomly selected data for the first 6 months of 2017 are provided for all three cities.
-        * _chicago.csv_
-        * _new_york_city.csv_
-        * _washington.csv_
+   * _chicago.csv_
+   * _new_york_city.csv_
+   * _washington.csv_
 
 ### Credits
 * [Udacity](https://udacity.com) - Programming for Data Science with Python Nanodegree provided by udacity was a great tool for preparation for the project.
 * Udacity Data Science technical mentors were resourceful and of great help during the project period.
+* [pandas docs](https://pandas.pydata.org/docs/) came in handy for indepth understanding and usage of panda methods and attributes.
+* [geeksforgeeks](https://www.geeksforgeeks.org/) was immensely helpful in debugging my code in pursuance of this project.
