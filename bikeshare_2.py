@@ -176,6 +176,9 @@ def user_stats(df):
     except:
         print("This city does not have a Birth Year column")
 
+    print("\nThis took %s seconds." % (time.time() - start_time))
+    print('-'*40)
+
 
 
     # Ask user if they want to see a preview of the data
